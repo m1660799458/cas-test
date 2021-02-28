@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="applicationOne:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>applicationOne</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="shiro-cas-authority.war">
+      <element id="artifact" artifact-name="applicationOne:war exploded" />
+    </root>
+  </artifact>
+</component>

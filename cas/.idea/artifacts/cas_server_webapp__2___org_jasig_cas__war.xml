@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cas-server-webapp (2) (org.jasig.cas):war">
+    <output-path>$PROJECT_DIR$/META-INF/maven/org.jasig.cas/cas-server-webapp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>cas-server-webapp (2) (org.jasig.cas)</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="cas.war">
+      <element id="artifact" artifact-name="cas-server-webapp (2) (org.jasig.cas):war exploded" />
+    </root>
+  </artifact>
+</component>

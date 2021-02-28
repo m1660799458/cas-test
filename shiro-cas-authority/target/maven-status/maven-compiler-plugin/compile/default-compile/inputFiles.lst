@@ -1,0 +1,15 @@
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/model/Permission.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/dao/PermissionMapper.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/model/Role.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/service/UserService.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/dao/RolePermissionMapper.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/service/impl/RoleServiceImpl.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/dao/UserRoleMapper.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/realm/UserRealm.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/model/User.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/model/UserRole.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/service/impl/UserServiceImpl.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/dao/RoleMapper.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/dao/UserMapper.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/service/RoleService.java
+/Users/mjl/tools/spring-shiro-cas-master/shiro-cas-authority/src/main/java/com/spring/mybatis/model/RolePermission.java

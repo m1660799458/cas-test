@@ -1,0 +1,15 @@
+com/spring/mybatis/model/Permission.class
+com/spring/mybatis/model/Role.class
+com/spring/mybatis/service/RoleService.class
+com/spring/mybatis/dao/RoleMapper.class
+com/spring/mybatis/service/impl/RoleServiceImpl.class
+com/spring/mybatis/service/impl/UserServiceImpl.class
+com/spring/mybatis/model/RolePermission.class
+com/spring/mybatis/model/UserRole.class
+com/spring/mybatis/dao/UserMapper.class
+com/spring/mybatis/dao/PermissionMapper.class
+com/spring/mybatis/dao/RolePermissionMapper.class
+com/spring/mybatis/realm/UserRealm.class
+com/spring/mybatis/dao/UserRoleMapper.class
+com/spring/mybatis/service/UserService.class
+com/spring/mybatis/model/User.class
